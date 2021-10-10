@@ -1,0 +1,14 @@
+.pokecard {
+    background-color: rgba(128, 128, 128, 0.644);
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+}
+
+.pokecard-title {
+    color: blue;
+}
+
+.pokecard-image {
+    width: 40%
+}
